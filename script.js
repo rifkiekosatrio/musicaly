@@ -22,29 +22,46 @@ let updateTimer;
 
 const music_list = [
     {
-        img : 'images/stay.png',
-        name : 'Stay',
-        artist : 'The Kid LAROI, Justin Bieber',
-        music : 'music/stay.mp3'
+        img : 'images/1000years.jpeg',
+        name : 'Two Thausand Years',
+        artist : 'James Arthur',
+        music : 'music/1000years.mp3'
     },
     {
-        img : 'images/fallingdown.jpg',
-        name : 'Falling Down',
-        artist : 'Wid Cards',
-        music : 'music/fallingdown.mp3'
+        img : 'images/wideawake.jpeg',
+        name : 'Wide Awake',
+        artist : 'Katy Perry',
+        music : 'music/wideawake.mp3'
     },
     {
-        img : 'images/faded.png',
-        name : 'Faded',
-        artist : 'Alan Walker',
-        music : 'music/Faded.mp3'
+        img : 'images/dandelions.jpeg',
+        name : 'Dandelions',
+        artist : 'Ruth B',
+        music : 'music/dandelions.mp3'
     },
     {
-        img : 'images/ratherbe.jpg',
-        name : 'Rather Be',
-        artist : 'Clean Bandit',
-        music : 'music/Rather Be.mp3'
+        img : 'images/takeaway.jpeg',
+        name : 'Take Away',
+        artist : 'The Chainsmokers',
+        music : 'music/takeaway.mp3'
+    },
+    {
+        img : 'images/angels.jpeg',
+        name : 'Angels Like You',
+        artist : 'Miley Cyrus',
+        music : 'music/angels.mp3'
+
+    },
+    {
+        img : 'images/8letters.jpeg',
+        name : '8 Letters',
+        artist : 'One Derection',
+        music : 'music/8letters.mp3'
+
     }
+    
+
+    
 ];
 
 loadTrack(track_index);
