@@ -15,4 +15,4 @@ Function
 4) Repeat Song
 
 The Layout Design of Music Player
-![alt text](https://github.com/users/rifkiekosatrio/projects/2/views/1?pane=issue&itemId=83468869&issue=rifkiekosatrio%7Crifkiguardiansx%7C1?raw=true)
+https://github.com/users/rifkiekosatrio/projects/2/views/1?pane=issue&itemId=83468869&issue=rifkiekosatrio%7Crifkiguardiansx%7C1
