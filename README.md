@@ -14,5 +14,6 @@ Function
 3) Next Song
 4) Repeat Song
 
-The Layout Design of Music Player
-https://github.com/rifkiekosatrio/rifkiguardiansx/issues/1#issue-2588850053
+#The Layout Design of Music Player
+![Image](https://github.com/user-attachments/assets/bbce9881-ea78-481d-92a8-2de54ad08aca)
+
